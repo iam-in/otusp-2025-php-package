@@ -1,0 +1,18 @@
+{
+    "name": "iam-in/otusp-2025-php-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "IamIn\\Otusp2025PhpPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mikhail Belomoin",
+            "email": "m.belomoin@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
